@@ -11,3 +11,6 @@
 ## Push ViewController in NavigationController Stack
 ## ImageView
 ## ImageView scalling type
+## UIBarButtonItem
+## UIActivityViewController
+## Sharing app Content using UIActivityViewController
